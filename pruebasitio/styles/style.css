@@ -1,0 +1,35 @@
+html {
+  font-size: 10px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: "Open Sans", Verdana, Geneva, Tahoma, sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+}
+h1 {
+  font-size: 30px;
+  padding: 20pxo;
+  text-align: center;
+  Color: #ccdff0;
+  text-shadow: 3px 3px 1px rgb(70, 37, 236);
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #8ed1e8;
+  padding: 20px 20px 20px 20px;
+}
+
+p,
+li {
+  /*color: #1f8ef0;utilizado como prueba para cambiar el color del texto*/
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 1px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  text-shadow: 3px 3px 1px rgb(70, 37, 236);
+}
+
+  html {
+    background-color: #1f8ef0;
+  }
